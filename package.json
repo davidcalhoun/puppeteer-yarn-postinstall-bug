@@ -1,0 +1,16 @@
+{
+  "name": "puppeteer-yarn-postinstall-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:davidcalhoun/puppeteer-yarn-postinstall-bug.git",
+  "author": "David Calhoun <dcalhoun@methanesat.org>",
+  "license": "MIT",
+  "packageManager": "yarn@3.3.0",
+  "devDependencies": {
+    "puppeteer": "^19.2.2"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "type": "module"
+}
