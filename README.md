@@ -1,0 +1,1 @@
+# puppeteer-yarn-postinstall-bug
